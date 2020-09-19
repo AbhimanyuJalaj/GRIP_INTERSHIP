@@ -13,6 +13,7 @@ If server not work than all data is given at https://github.com/AbhimanyuJalaj/G
    
 2) Ipython notebook : https://github.com/AbhimanyuJalaj/GRIP_INTERSHIP/blob/master/OptimumIrisCluster.ipynb
    In this notebook, K means clustering on Iris dataset is applied and predicted value of K by elbow method.
+   The structure of Tree is saved in https://github.com/AbhimanyuJalaj/GRIP_INTERSHIP/blob/master/dot_data.xml
 
 3) Ipython notebook : https://github.com/AbhimanyuJalaj/GRIP_INTERSHIP/blob/master/IrisDecisionTree.ipynb
    In this notebook, Decision tree algorithm is applied on iris dataset and made tree for visualization. 
